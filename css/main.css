@@ -1,6 +1,33 @@
 /* Place CSS styles here */
 body{
   background-image: url('/Users/emilyreiners/Desktop/ht_bat_1.JPG');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: "Jura", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  color: rgb(87, 52, 111);
+}
+section{
+  padding: 25px;
+}
+h1{
   font-family: "Jost", sans-serif;
-  
+  font-size: 50px;
+  font-weight: 400;
+  color:rgb(146, 79, 146);
+}
+h2{
+  font-family: "Jost", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  color:rgb(146, 79, 146);
+}
+footer{
+  position: fixed;
+  bottom: 0;
+  right: 0%;
+  left: 0%;
 }
